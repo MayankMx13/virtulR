@@ -6,6 +6,9 @@
 
 **Virtual R** is a sleek and modern landing page that showcases a collection of developer tools and features designed to enhance productivity. Built with **React.js** and styled using **Tailwind CSS**, this project demonstrates the power of modern web technologies in creating highly responsive and visually appealing interfaces.
 
+![Preview of Virtual R]("https://drive.google.com/file/d/1FEVH8bSNW4Da987F11nJJIfo-TiHdAOj/view?usp=sharing")
+
+
 ## Features
 
 - **Developer Tools Showcase**: A curated list of tools for developers.
