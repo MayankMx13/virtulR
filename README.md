@@ -1,6 +1,4 @@
-Here’s a tailored **README.md** for your GitHub project:
 
----
 
 # Virtual R Landing Page
 
